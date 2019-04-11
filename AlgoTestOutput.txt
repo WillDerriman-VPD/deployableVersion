@@ -1,0 +1,9 @@
+Mismatch in RLFF --> phase: 1.0 task: 5.0
+Template: 1530.0 ---> UAT: 1080.0
+
+Mismatch in RHFF --> phase: 1.0 task: 5.0
+Template: 1620.0 ---> UAT: 1320.0
+
+Mismatch in overrun --> phase: 1.0 task: 5.0
+Template: 0.7 ---> UAT: 0.2
+
