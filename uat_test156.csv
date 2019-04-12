@@ -1,0 +1,316 @@
+,,,,,,,,
+,,,,,,,,
+0,,Details of HYD Test 1,,,,,,
+0,,Instructions and preliminary steps,,,,,,
+1,0,Task,Assumptions,Exclusions,Planning,,,
+1,0,Obtain detailed formal instructions by telephone or in writing and discuss the principal elements of the transaction and timescales,No meeting is required,None,,,,
+1,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,1,Greg Wildisen,Standard,1,1.5,2,3,Possible
+1,1,Judith Johnston,Standard,1,1.5,2,3,Possible
+1,1,Obtain detailed formal instructions in a meeting and discuss the principal elements of the transaction and timescales,Meeting is required,None,,,,
+1,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,2,Greg Wildisen,Standard,1.5,2,2.5,3,Possible
+1,2,Judith Johnston,Standard,1.5,2,2.5,3,Possible
+1,2,Deal with matter opening formalities including conflict checks and other regulatory matters,There is no conflict with other parties and client produces required KYC in a timely manner,None,,,,
+1,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,3,Judith Johnston,Standard,1,1.5,2,3,Possible
+1,3,Ramon the second Rollinger,Standard,1.5,2,2.5,3,Possible
+1,3,Undertake searches on the target,The target is not the subject of any winding up petition or strike off procedure,None,,,,
+1,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,4,Judith Johnston,Standard,0.5,1,2,2.5,Possible
+1,4,Ramon the second Rollinger,Standard,0.5,1,2,2.5,Possible
+1,4,Draft timetable,None,None,,,,
+1,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,5,Judith Johnston,Standard,0.5,1,1.5,2,Highly Unlikely
+1,5,Draft documents list,None,None,,,,
+1,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,6,Judith Johnston,Standard,1,1.5,2,2.5,Highly Unlikely
+1,6,Heads of terms,,,,,,
+2,0,Task,Assumptions,Exclusions,Planning,,,
+2,0,Draft heads of terms,To set out completion conditions and to contain confidentiality and exclusivity provisions,None,,,,
+2,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,1,Judith Johnston,Standard,2,2.5,3,4,Probable
+2,1,Review of heads of terms,Drafted by another party. To set out completion conditions and contain confidentiality and exclusivity provisions,None,,,,
+2,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,2,Greg Wildisen,Standard,1,1.5,2,2.5,Possible
+2,2,Judith Johnston,Standard,1.3,1.8,2.5,3,Possible
+2,2,Discuss heads of terms internally,None,None,,,,
+2,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,3,Greg Wildisen,Standard,0.5,0.8,1,1.5,Highly Unlikely
+2,3,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+2,3,Discuss heads of terms with client and its advisers,None,None,,,,
+2,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,4,Judith Johnston,Standard,1,2,3,4,Possible
+2,4,Negotiate heads of terms with seller's solicitors and finalise for execution,No more than two turns by each party's solicitors,None,,,,
+2,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,5,Judith Johnston,Standard,3,4,6,8,Probable
+2,5,Due diligence questionnaire,,,,,,
+3,0,Task,Assumptions,Exclusions,Planning,,,
+3,0,Draft due diligence questionnaire and send to seller's solicitors,To cover corporate structure; share capital; accounts; finance and banking; contracts and trading; assets; IP; data protection; insurance; litigation; employment; retirement benefits; real estate; and tax,None,,,,
+3,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+3,1,Judith Johnston,Standard,2,2.5,3,5,Highly Unlikely
+3,1,Discuss due diligence questionnaire internally,None,None,,,,
+3,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+3,2,Greg Wildisen,Standard,0.5,0.8,1,1.5,Highly Unlikely
+3,2,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+3,2,Set up data room,None,The uploading of documents,,,,
+3,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+3,3,Ramon the second Rollinger,Standard,0.8,1,1.3,1.5,Highly Unlikely
+3,3,Legal due diligence,,,,,,
+4,0,Task,Assumptions,Exclusions,Planning,,,
+4,0,High level review of corporate answers to due diligence questionnaire received and accompanying documents,High level review with a view to drafting an exceptions only / key highlights report,"Review does not cover accounts, finance and banking, IP, data protection, litigation, employment, retirement benefits, real estate and tax",,,,
+4,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,1,Judith Johnston,Standard,8,10,12,20,Highly Unlikely
+4,1,Ramon the second Rollinger,Standard,9,12,14,22,Highly Unlikely
+4,1,Detailed review of corporate answers to due diligence questionnaire received and accompanying documents,Detailed review with a view to drafting a detailed legal due diligence report,"Review does not cover accounts, finance and banking, IP, data protection, litigation, employment, retirement benefits, real estate and tax",,,,
+4,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,2,Judith Johnston,Standard,16,25,30,40,Highly Unlikely
+4,2,Ramon the second Rollinger,Standard,18,27,32,45,Highly Unlikely
+4,2,Discuss due diligence findings internally,None,None,,,,
+4,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,3,Judith Johnston,Standard,0.5,1.5,2.5,3,Possible
+4,3,Greg Wildisen,Standard,0.5,1.5,2.5,3,Possible
+4,3,Ramon the second Rollinger,Standard,0.5,1.5,2.5,3,Possible
+4,3,Draft exceptions only / key highlights corporate report,Target not part of a group of companies; no more than 20 key contracts,None,,,,
+4,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,4,Judith Johnston,Standard,10,14,16,20,Probable
+4,4,Ramon the second Rollinger,Standard,10,14,16,20,Probable
+4,4,Draft detailed legal due diligence corporate report,Target not part of a group of companies; no more than 20 key contracts,None,,,,
+4,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,5,Judith Johnston,Standard,20,25,30,40,Possible
+4,5,Ramon the second Rollinger,Standard,20,25,30,40,Possible
+4,5,Discuss report with client and its advisers,No more than 2 completion conditions,None,,,,
+4,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,6,Judith Johnston,Standard,2,3,4,5,Possible
+4,6,Send any follow up corporate questions/queries to the seller's solicitors,Only one set of further enquiries will be required,None,,,,
+4,7,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,7,Judith Johnston,Standard,2,2.5,3,4,Highly Unlikely
+4,7,Ramon the second Rollinger,Standard,2,2.5,3,4,Highly Unlikely
+4,7,High level review of answers to follow up corporate questions/queries,High level review with a view to updating an exceptions only / key highlights report,None,,,,
+4,8,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,8,Judith Johnston,Standard,3,4,6,8,Probable
+4,8,Ramon the second Rollinger,Standard,3,4,6,8,Probable
+4,8,Detailed review of answers to follow up corporate questions/queries,Detailed review with a view to updating a detailed legal due diligence report,None,,,,
+4,9,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,9,Judith Johnston,Standard,6,8,12,16,Probable
+4,9,Ramon the second Rollinger,Standard,6,8,12,16,Probable
+4,9,Update the relevant report,None,None,,,,
+4,10,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,10,Judith Johnston,Standard,3,5,7,10,Possible
+4,10,Other practice areas' high level due diligence reviews and drafting for the report,"The minimum figures assume 5 hours of each of the banking, commercial, employment, retirement benefits and real estate teams to review replies to due diligence queries relevant to their practice areas and at least 3 hours of each such practice area to draft a section for the due diligence report",None,,,,
+4,11,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,11,Judith Johnston,Standard,8,10,12,20,Probable
+4,11,Other practice areas' detailed due diligence reviews and drafting for the report,"The minimum figures assume 10 hours of each of the banking, commercial, employment, retirement benefits and real estate teams to review replies to due diligence queries relevant to their practice areas and at least 6 hours of each such practice area to draft a section for the due diligence report",None,,,,
+4,12,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,12,Judith Johnston,Standard,16,18,20,30,Probable
+4,12,Greg Wildisen,Standard,16,18,20,30,Highly Unlikely
+4,12,Co-ordinate and manage other teams' detailed due diligence reviews and insert their findings into relevant report and discuss with client,None,None,,,,
+4,13,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,13,Judith Johnston,Standard,8,11,13,20,Probable
+4,13,"Send any follow up banking, commercial, employment, retirement benefits and real estate questions/queries to the seller's solicitors",Only one set of further enquiries will be required,None,,,,
+4,14,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,14,Judith Johnston,Standard,2,3,4,6,Highly Unlikely
+4,14,High level review of answers to follow up questions/queries of other practice areas,The minimum figure assumes each practice area will spend a further 5 hours reviewing and updating the report,None,,,,
+4,15,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,15,Judith Johnston,Standard,5,6,7,8,Possible
+4,15,Judith Johnston,Standard,5,6,7,8,Highly Unlikely
+4,15,Detailed review of answers to follow up questions/queries of other practice areas,The minimum figure assumes each practice area will spend a further 10 hours reviewing and updating the report,None,,,,
+4,16,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,16,Judith Johnston,Standard,10,12,14,15,Possible
+4,16,Greg Wildisen,Standard,10,12,14,15,Highly Unlikely
+4,16,Finalise the relevant report and discuss with client,None,None,,,,
+4,17,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,17,Judith Johnston,Standard,2,4,5,6,Possible
+4,17,Share purchase agreement,,,,,,
+5,0,Task,Assumptions,Exclusions,Planning,,,
+5,0,Draft share purchase agreement,"No more than 2 conditions to sale and long stop date of no more than 1 month from exchange; no deferred consideration; contains standard warranties and no more than 2 indemnities, limitations on seller's liabilities, completion accounts mechanics, seller's restrictive covenants, undertakings from seller to buyer for period between exchange and completion and matters requiring buyer's consent",None,,,,
+5,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,1,Judith Johnston,Standard,9,10,11,16,Possible
+5,1,Greg Wildisen,Standard,2.5,3.5,4.5,6,Probable
+5,1,Discuss share purchase agreement internally,None,None,,,,
+5,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,2,Judith Johnston,Standard,1,1.5,2,3,Possible
+5,2,Greg Wildisen,Standard,1,1.5,2,3,Possible
+5,2,Discuss with client and any of its other advisers,Warranty and indemnity insurance not required,None,,,,
+5,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,3,Judith Johnston,Standard,2,3,4,8,Possible
+5,3,Negotiate SPA with seller's solicitors,No more than ten turns by each party's solicitors and no more than 2 all parties' conference calls,None,,,,
+5,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,4,Judith Johnston,Standard,20,24,28,40,Highly Unlikely
+5,4,Greg Wildisen,Standard,5,10,15,20,Highly Unlikely
+5,4,Finalise SPA for execution,None,None,,,,
+5,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,5,Judith Johnston,Standard,3,5,6,8,Highly Unlikely
+5,5,Tax covenant,,,,,,
+6,0,Task,Assumptions,Exclusions,Planning,,,
+6,0,Draft tax covenant,To include tax warranties,None,,,,
+6,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,1,Greg Wildisen,Standard,3,4,6,8,Possible
+6,1,Negotiate tax covenant with seller's solicitors,No more than five turns by each party's solicitors,None,,,,
+6,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,2,Greg Wildisen,Standard,6,8,11,15,Probable
+6,2,Discuss tax covenant with client and its other advisers,None,None,,,,
+6,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,3,Greg Wildisen,Standard,3,4,6,10,Highly Unlikely
+6,3,Finalise tax covenant for execution,None,None,,,,
+6,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,4,Greg Wildisen,Standard,1,1.5,2,2.5,Highly Unlikely
+6,4,Disclosure letter,,,,,,
+7,0,Task,Assumptions,Exclusions,Planning,,,
+7,0,Review front end of disclosure letter,Drafted by seller's solicitors,None,,,,
+7,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,1,Judith Johnston,Standard,1,2,3,4,Highly Unlikely
+7,1,Amend and negotiate front end of disclosure letter,No more than three turns by each party's solicitors,None,,,,
+7,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,2,Judith Johnston,Standard,2.5,4,5,8,Possible
+7,2,Review specific disclosures and accompanying documents,Drafted by seller's solicitors; no more than 20% of warranties require disclosure against them,None,,,,
+7,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,3,Judith Johnston,Standard,4,6,8,10,Highly Unlikely
+7,3,Ramon the second Rollinger,Standard,4,6,8,10,Highly Unlikely
+7,3,Discuss specific disclosures internally,Discuss with relevant departments with each department spending at least 2 hours reviewing any specific disclosures relevant to their practice area,None,,,,
+7,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,4,Judith Johnston,Standard,15,25,35,50,Probable
+7,4,Greg Wildisen,Standard,5,6,7,8,Probable
+7,4,Discuss specific disclosures with client and any of its advisers,None,None,,,,
+7,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,5,Judith Johnston,Standard,3,7,9,12,Highly Unlikely
+7,5,Amend specific disclosures,None,None,,,,
+7,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,6,Judith Johnston,Standard,4,5,8,14,Possible
+7,6,Request further information from seller' solicitors with respect to the specific disclosures,Only one set of further enquiries will be required,None,,,,
+7,7,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,7,Judith Johnston,Standard,2,3,4,6,Highly Unlikely
+7,7,Negotiate finalising specific disclosures with seller's solicitors,No more than five turns by each party's solicitors,None,,,,
+7,8,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,8,Judith Johnston,Standard,10,12,15,20,Highly Unlikely
+7,8,Finalise disclosure letter for execution,None,None,,,,
+7,9,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,9,Judith Johnston,Standard,3,4,5,6,Highly Unlikely
+7,9,Ramon the second Rollinger,Standard,3,4,5,6,Highly Unlikely
+7,9,Draft required ancillaries for buyer,,,,,,
+8,0,Task,Assumptions,Exclusions,Planning,,,
+8,0,Draft exchange and completion board minutes of the buyer,Buyer is a corporate entity; no more than two turns by each party's solicitors of each set of board minutes,None,,,,
+8,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+8,1,Judith Johnston,Standard,4,5,8,12,Highly Unlikely
+8,1,Draft new share certificate,No more than two turns by each party's solicitors,None,,,,
+8,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+8,2,Ramon the second Rollinger,Standard,0.5,0.8,1,2,Highly Unlikely
+8,2,Draft power of attorney,No more than two turns by each party's solicitors,None,,,,
+8,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+8,3,Judith Johnston,Standard,0.8,1.3,1.8,3,Highly Unlikely
+8,3,Draft Companies House forms,No more than four forms and no more than two turns by each party's solicitors,None,,,,
+8,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+8,4,Ramon the second Rollinger,Standard,1.5,2,2.5,3,Highly Unlikely
+8,4,Draft undertaking for deposit monies,No more than two turns by each party's solicitors,None,,,,
+8,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+8,5,Judith Johnston,Standard,1,1.5,1.8,2,Highly Unlikely
+8,5,Greg Wildisen,Standard,0.3,0.5,0.8,1,Highly Unlikely
+8,5,Review required ancillaries for seller,,,,,,
+9,0,Task,Assumptions,Exclusions,Planning,,,
+9,0,Review exchange and completion board minutes of the seller,Seller is a corporate entity; no more than two turns by each party's solicitors of each set of board minutes,None,,,,
+9,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,1,Judith Johnston,Standard,1.5,2.5,4,5,Highly Unlikely
+9,1,Review exchange and completion board minutes of the target,No more than two turns by each party's solicitors of each set of board minutes,None,,,,
+9,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,2,Judith Johnston,Standard,1.5,2.5,4,5,Highly Unlikely
+9,2,Review stock transfer form,No more than two turns by each party's solicitors,None,,,,
+9,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,3,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+9,3,Review indemnity for lost share certificate,No more than two turns by each party's solicitors,None,,,,
+9,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,4,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+9,4,Review director resignation letter,No more than two turns by each party's solicitors,None,,,,
+9,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,5,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+9,5,Review secretary resignation letter,No more than two turns by each party's solicitors,None,,,,
+9,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,6,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+9,6,Review power of attorney,No more than two turns by each party's solicitors,None,,,,
+9,7,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,7,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+9,7,Review Companies House forms,No more than four forms and no more than two turns by each party's solicitors,None,,,,
+9,8,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+9,8,Judith Johnston,Standard,1,1.5,1.8,2,Highly Unlikely
+9,8,Exchange,,,,,,
+10,0,Task,Assumptions,Exclusions,Planning,,,
+10,0,Undertake pre-completion searches,Nothing of concern arises from the searches,None,,,,
+10,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+10,1,Ramon the second Rollinger,Standard,0.5,1,2,3,Possible
+10,1,Request and receive relevant funds from the buyer,Non-refundable deposit to be paid on exchange; funds are readily available and sent to us by our client in one transaction prior to exchange not requiring any additional KYC,None,,,,
+10,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+10,2,Judith Johnston,Standard,0.2,0.5,0.8,1,Highly Unlikely
+10,2,Prepare documents for exchange and arrange execution by buyer,Execution of documents to be undertaken remotely and scanned by buyer to us and then scanned between solicitors,None,,,,
+10,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+10,3,Judith Johnston,Standard,1,2,3,4,Possible
+10,3,Ramon the second Rollinger,Standard,2,2.5,3,4,Possible
+10,3,Check documents and signatures to them received from the seller's solicitors,All signatures are legible and solicitors agree exchange between themselves,None,,,,
+10,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+10,4,Judith Johnston,Standard,1,1.5,2.5,3,Highly Unlikely
+10,4,Ramon the second Rollinger,Standard,1,1.5,2.5,3,Highly Unlikely
+10,4,Meeting to be held to sign documents,Documents signed at this meeting which is attended by all parties and exchange agreed,None,,,,
+10,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+10,5,Greg Wildisen,Standard,2,3,4,6,Possible
+10,5,Judith Johnston,Standard,2,3,4,6,Possible
+10,5,Period between exchange and completion,,,,,,
+11,0,Task,Assumptions,Exclusions,Planning,,,
+11,0,Seek release of any undertaking given re deposit,None,None,,,,
+11,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+11,1,Judith Johnston,Standard,0.3,0.5,0.8,1,Highly Unlikely
+11,1,"One week before long stop date, liaise with seller's solicitors re completion conditions",Completion conditions will be satisfied by long stop date,None,,,,
+11,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+11,2,Judith Johnston,Standard,0.5,1,2,3,Possible
+11,2,Review any updates to the disclosure letter,Warranties repeated at completion; only minor amendments made to disclosure letter by seller's solicitors and no material breaches since exchange,None,,,,
+11,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+11,3,Judith Johnston,Standard,1,1.5,3,5,Highly Unlikely
+11,3,Draft undertaking for completion monies,No more than two turns by each party's solicitors,None,,,,
+11,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+11,4,Judith Johnston,Standard,1,1.5,1.8,2,Highly Unlikely
+11,4,Greg Wildisen,Standard,0.3,0.5,0.8,1,Highly Unlikely
+11,4,Update client,Completion conditions will be satisfied by long stop date,None,,,,
+11,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+11,5,Judith Johnston,Standard,0.5,1,1.5,2,Highly Unlikely
+11,5,Greg Wildisen,Standard,0.5,1,1.5,2,Highly Unlikely
+11,5,Completion,,,,,,
+12,0,Task,Assumptions,Exclusions,Planning,,,
+12,0,Undertake pre-completion searches and check any confirmations re completion conditions,Nothing of concern arises from the searches,None,,,,
+12,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+12,1,Ramon the second Rollinger,Standard,0.5,1,2,3,Possible
+12,1,Request and receive relevant funds from the buyer,Balance of consideration to be paid on completion; funds are readily available and sent to us by our client in one transaction prior to completion not requiring any additional KYC,None,,,,
+12,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+12,2,Judith Johnston,Standard,0.2,0.5,0.8,1,Highly Unlikely
+12,2,Prepare any further documents required for completion and arrange execution by buyer,Execution of documents to be undertaken remotely and scanned by buyer to us and then scanned between solicitors; updated disclosure letter and documents re conditions only,None,,,,
+12,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+12,3,Judith Johnston,Standard,0.5,1,1.5,2,Possible
+12,3,Ramon the second Rollinger,Standard,1,1.3,1.5,2,Possible
+12,3,Check documents and signatures to them received from the seller's solicitors,All signatures are legible and solicitors agree completion between themselves,None,,,,
+12,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+12,4,Judith Johnston,Standard,0.8,1.3,2.3,2.8,Highly Unlikely
+12,4,Ramon the second Rollinger,Standard,0.8,1.3,2.3,2.8,Highly Unlikely
+12,4,Post completion considerations,,,,,,
+13,0,Task,Assumptions,Exclusions,Planning,,,
+13,0,Payment of purchase monies to seller's solicitors,None,None,,,,
+13,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,1,Judith Johnston,Standard,0.3,0.5,0.8,1,Highly Unlikely
+13,1,Seek release of any undertaking given,None,None,,,,
+13,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,2,Judith Johnston,Standard,0.3,0.5,0.8,1,Highly Unlikely
+13,2,Submit STF(s) to HMRC for stamping,None,None,,,,
+13,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,3,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+13,3,Make necessary filings at Companies House,No more than 8 forms to be filed,None,,,,
+13,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,4,Ramon the second Rollinger,Standard,1,1.5,2,3,Highly Unlikely
+13,4,Update target's statutory registers,None,None,,,,
+13,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,5,Ramon the second Rollinger,Standard,1,1.5,2,2.5,Highly Unlikely
+13,5,Prepare transaction bible,None,None,,,,
+13,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,6,Ramon the second Rollinger,Standard,4,6,9,12,Highly Unlikely
+13,6,Judith Johnston,Standard,1,2,3,4,Highly Unlikely
+13,6,Diarise dates for completion accounts,None,None,,,,
+13,7,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,7,Judith Johnston,Standard,0.3,0.5,0.8,1,Highly Unlikely
+13,7,Review of SPA in relation to any adjustment to purchase price,The parties' accountants draft and agree completion accounts in accordance with the SPA,None,,,,
+13,8,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+13,8,Greg Wildisen,Standard,2,3,5,7,Highly Unlikely
+13,8,Judith Johnston,Standard,2,3,5,7,Highly Unlikely

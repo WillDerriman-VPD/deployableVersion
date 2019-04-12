@@ -1,0 +1,729 @@
+,,,,,,,,,,,,
+1,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Default/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+1,0,Instructions and preliminary steps,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+1,1,Obtain detailed formal instructions by telephone or in writing and discuss the principal elements of the transaction and timescales,No meeting is required,,Default,,Partner,1.0,1.5,2.0,3.0,Possible
+1,1,,,,,,Associate,1.0,1.5,2.0,3.0,Possible
+1,1,,,,,,,,,,,
+1,1,,,,,,,,,,,
+1,1,,,,,,,,,,,
+1,2,Obtain detailed formal instructions in a meeting and discuss the principal elements of the transaction and timescales,Meeting is required,,Optional,,Partner,1.5,2.0,2.5,3.0,Possible
+1,2,,,,,,Associate,1.5,2.0,2.5,3.0,Possible
+1,2,,,,,,,,,,,
+1,2,,,,,,,,,,,
+1,2,,,,,,,,,,,
+1,3,Deal with matter opening formalities including conflict checks and other regulatory matters , There is no conflict with other parties and client produces required KYC in a timely manner,,Default,,Associate,1.0,1.5,2.0,3.0,Possible
+1,3,,,,,,Paralegal,1.5,2.0,2.5,3.0,Possible
+1,3,,,,,,,,,,,
+1,3,,,,,,,,,,,
+1,3,,,,,,,,,,,
+1,4,Undertake searches on the target,The target is not the subject of any winding up petition or strike off procedure,,Default,,Associate,0.5,1.0,2.0,2.5,Possible
+1,4,,,,,,Paralegal,0.5,1.0,2.0,2.5,Possible
+1,4,,,,,,,,,,,
+1,4,,,,,,,,,,,
+1,4,,,,,,,,,,,
+1,5,Draft timetable ,,,Optional,,Associate,0.5,1.0,1.5,2.0,Highly Unlikely
+1,5,,,,,,,,,,,
+1,5,,,,,,,,,,,
+1,5,,,,,,,,,,,
+1,5,,,,,,,,,,,
+1,6,Draft documents list,,,Optional,,Associate,1.0,1.5,2.0,2.5,Highly Unlikely
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+1,6,,,,,,,,,,,
+2,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+2,0,Heads of terms,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+2,1,Draft heads of terms,To set out completion conditions and to contain confidentiality and exclusivity provisions,,Default,,Associate,2.0,2.5,3.0,4.0,Probable
+2,1,,,,,,,,,,,
+2,1,,,,,,,,,,,
+2,1,,,,,,,,,,,
+2,1,,,,,,,,,,,
+2,2,Review of heads of terms,Drafted by another party. To set out completion conditions and contain confidentiality and exclusivity provisions,,Optional,,Partner,1.0,1.5,2.0,2.5,Possible
+2,2,,,,,,Associate,1.3,1.8,2.5,3.0,Possible
+2,2,,,,,,,,,,,
+2,2,,,,,,,,,,,
+2,2,,,,,,,,,,,
+2,3,Discuss heads of terms internally,,,Default,,Partner,0.5,0.8,1.0,1.5,Highly Unlikely
+2,3,,,,,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+2,3,,,,,,,,,,,
+2,3,,,,,,,,,,,
+2,3,,,,,,,,,,,
+2,4,Discuss heads of terms with client and its advisers,,,Default,,Associate,1.0,2.0,3.0,4.0,Possible
+2,4,,,,,,,,,,,
+2,4,,,,,,,,,,,
+2,4,,,,,,,,,,,
+2,4,,,,,,,,,,,
+2,5,Negotiate heads of terms with seller's solicitors and finalise for execution,No more than two turns by each party's solicitors,,Default,,Associate,3.0,4.0,6.0,8.0,Probable
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+2,5,,,,,,,,,,,
+3,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+3,0,Due diligence questionnaire,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+3,1,Draft due diligence questionnaire and send to seller's solicitors,To cover corporate structure; share capital; accounts; finance and banking; contracts and trading; assets; IP; data protection; insurance; litigation; employment; retirement benefits; real estate; and tax,,Default,,Associate,2.0,2.5,3.0,5.0,Highly Unlikely
+3,1,,,,,,,,,,,
+3,1,,,,,,,,,,,
+3,1,,,,,,,,,,,
+3,1,,,,,,,,,,,
+3,2,Discuss due diligence questionnaire internally,,,Optional,,Partner,0.5,0.8,1.0,1.5,Highly Unlikely
+3,2,,,,,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+3,2,,,,,,,,,,,
+3,2,,,,,,,,,,,
+3,2,,,,,,,,,,,
+3,3,Set up data room,,The uploading of documents,Optional,,Paralegal,0.8,1.0,1.3,1.5,Highly Unlikely
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+3,3,,,,,,,,,,,
+4,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+4,0,Legal due diligence,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+4,1,High level review of corporate answers to due diligence questionnaire received and accompanying documents,High level review with a view to drafting an exceptions only / key highlights report,"Review does not cover accounts, finance and banking, IP, data protection, litigation, employment, retirement benefits, real estate and tax",Default,,Associate,8.0,10.0,12.0,20.0,Highly Likely
+4,1,,,,,,Paralegal,9.0,12.0,14.0,22.0,Highly Likely
+4,1,,,,,,,,,,,
+4,1,,,,,,,,,,,
+4,1,,,,,,,,,,,
+4,2,Detailed review of corporate answers to due diligence questionnaire received and accompanying documents,Detailed review with a view to drafting a detailed legal due diligence report,"Review does not cover accounts, finance and banking, IP, data protection, litigation, employment, retirement benefits, real estate and tax",Optional,,Associate,16.0,25.0,30.0,40.0,Highly Likely
+4,2,,,,,,Paralegal,18.0,27.0,32.0,45.0,Highly Likely
+4,2,,,,,,,,,,,
+4,2,,,,,,,,,,,
+4,2,,,,,,,,,,,
+4,3,Discuss due diligence findings internally ,,,Optional,,Associate,0.5,1.5,2.5,3.0,Possible
+4,3,,,,,,Partner,0.5,1.5,2.5,3.0,Possible
+4,3,,,,,,Paralegal,0.5,1.5,2.5,3.0,Possible
+4,3,,,,,,,,,,,
+4,3,,,,,,,,,,,
+4,4,Draft exceptions only / key highlights corporate report,Target not part of a group of companies; no more than 20 key contracts ,,Default,,Associate,10.0,14.0,16.0,20.0,Probable
+4,4,,,,,,Paralegal,10.0,14.0,16.0,20.0,Probable
+4,4,,,,,,,,,,,
+4,4,,,,,,,,,,,
+4,4,,,,,,,,,,,
+4,5,Draft detailed legal due diligence corporate report,Target not part of a group of companies; no more than 20 key contracts ,,Optional,,Associate,20.0,25.0,30.0,40.0,Possible
+4,5,,,,,,Paralegal,20.0,25.0,30.0,40.0,Possible
+4,5,,,,,,,,,,,
+4,5,,,,,,,,,,,
+4,5,,,,,,,,,,,
+4,6,Discuss report with client and its advisers,No more than 2 completion conditions,,Default,,Associate,2.0,3.0,4.0,5.0,Possible
+4,6,,,,,,,,,,,
+4,6,,,,,,,,,,,
+4,6,,,,,,,,,,,
+4,6,,,,,,,,,,,
+4,7,Send any follow up corporate questions/queries to the seller's solicitors,Only one set of further enquiries will be required,,Default,,Associate,2.0,2.5,3.0,4.0,Highly Unlikely
+4,7,,,,,,Paralegal,2.0,2.5,3.0,4.0,Highly Unlikely
+4,7,,,,,,,,,,,
+4,7,,,,,,,,,,,
+4,7,,,,,,,,,,,
+4,8,High level review of answers to follow up corporate questions/queries,High level review with a view to updating an exceptions only / key highlights report,,Default,,Associate,3.0,4.0,6.0,8.0,Probable
+4,8,,,,,,Paralegal,3.0,4.0,6.0,8.0,Probable
+4,8,,,,,,,,,,,
+4,8,,,,,,,,,,,
+4,8,,,,,,,,,,,
+4,9,Detailed review of answers to follow up corporate questions/queries,Detailed review with a view to updating a detailed legal due diligence report,,Optional,,Associate,6.0,8.0,12.0,16.0,Probable
+4,9,,,,,,Paralegal,6.0,8.0,12.0,16.0,Probable
+4,9,,,,,,,,,,,
+4,9,,,,,,,,,,,
+4,9,,,,,,,,,,,
+4,10,Update the relevant report,,,Default,,Associate,3.0,5.0,7.0,10.0,Possible
+4,10,,,,,,,,,,,
+4,10,,,,,,,,,,,
+4,10,,,,,,,,,,,
+4,10,,,,,,,,,,,
+4,11,Other practice areas' high level due diligence reviews and drafting for the report,"The minimum figures assume 5 hours of each of the banking, commercial, employment, retirement benefits and real estate teams to review replies to due diligence queries relevant to their practice areas and at least 3 hours of each such practice area to draft a section for the due diligence report",,Default,,Associate,8.0,10.0,12.0,20.0,Probable
+4,11,,,,,,Associate,8.0,10.0,12.0,20.0,Probable
+4,11,,,,,,Associate,8.0,10.0,12.0,20.0,Probable
+4,11,,,,,,Associate,8.0,10.0,12.0,20.0,Probable
+4,11,,,,,,Associate,8.0,10.0,12.0,20.0,Probable
+4,11,Other practice areas' detailed due diligence reviews and drafting for the report,"The minimum figures assume 10 hours of each of the banking, commercial, employment, retirement benefits and real estate teams to review replies to due diligence queries relevant to their practice areas and at least 6 hours of each such practice area to draft a section for the due diligence report",,Optional,,Associate,16.0,18.0,20.0,30.0,Probable
+4,11,,,,,,Associate,16.0,18.0,20.0,30.0,Probable
+4,11,,,,,,Associate,16.0,18.0,20.0,30.0,Probable
+4,11,,,,,,Associate,16.0,18.0,20.0,30.0,Probable
+4,11,,,,,,Associate,16.0,18.0,20.0,30.0,Probable
+4,11,Co-ordinate and manage other teams' detailed due diligence reviews and insert their findings into relevant report and discuss with client,,,Default,,Associate,8.0,11.0,13.0,20.0,Probable
+4,11,,,,,,,,,,,
+4,11,,,,,,,,,,,
+4,11,,,,,,,,,,,
+4,11,,,,,,,,,,,
+4,12,"Send any follow up banking, commercial, employment, retirement benefits and real estate questions/queries to the seller's solicitors",Only one set of further enquiries will be required,,Default,,Associate,2.0,3.0,4.0,6.0,Highly Unlikely
+4,12,,,,,,,,,,,
+4,12,,,,,,,,,,,
+4,12,,,,,,,,,,,
+4,12,,,,,,,,,,,
+4,13,High level review of answers to follow up questions/queries of other practice areas,The minimum figure assumes each practice area will spend a further 5 hours reviewing and updating the report,,Default,,Associate,5.0,6.0,7.0,8.0,Possible
+4,13,,,,,,Associate,5.0,6.0,7.0,8.0,Possible
+4,13,,,,,,Associate,5.0,6.0,7.0,8.0,Possible
+4,13,,,,,,Associate,5.0,6.0,7.0,8.0,Possible
+4,13,,,,,,Associate,5.0,6.0,7.0,8.0,Possible
+4,13,Detailed review of answers to follow up questions/queries of other practice areas,The minimum figure assumes each practice area will spend a further 10 hours reviewing and updating the report,,Optional,,Associate,10.0,12.0,14.0,15.0,Possible
+4,13,,,,,,Associate,10.0,12.0,14.0,15.0,Possible
+4,13,,,,,,Associate,10.0,12.0,14.0,15.0,Possible
+4,13,,,,,,Associate,10.0,12.0,14.0,15.0,Possible
+4,13,,,,,,Associate,10.0,12.0,14.0,15.0,Possible
+4,13,Finalise the relevant report and discuss with client,,,Default,,Associate,2.0,4.0,5.0,6.0,Possible
+4,13,,,,,,,,,,,
+4,13,,,,,,,,,,,
+4,13,,,,,,,,,,,
+4,13,,,,,,,,,,,
+4,13,,,,,,,,,,,
+5,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+5,0,Share purchase agreement,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+5,1,Draft share purchase agreement,"No more than 2 conditions to sale and long stop date of no more than 1 month from exchange; no deferred consideration; contains standard warranties and no more than 2 indemnities, limitations on seller's liabilities, completion accounts mechanics, seller's restrictive covenants, undertakings from seller to buyer for period between exchange and completion and matters requiring buyer's consent ",,Default,,Associate,9.0,10.0,11.0,16.0,Probable
+5,1,,,,,,Partner,2.5,3.5,4.5,6.0,Probable
+5,1,,,,,,,,,,,
+5,1,,,,,,,,,,,
+5,1,,,,,,,,,,,
+5,2,Discuss share purchase agreement internally,,,Optional,,Associate,1.0,1.5,2.0,3.0,Possible
+5,2,,,,,,Partner,1.0,1.5,2.0,3.0,Possible
+5,2,,,,,,,,,,,
+5,2,,,,,,,,,,,
+5,2,,,,,,,,,,,
+5,3,Discuss with client and any of its other advisers,Warranty and indemnity insurance not required,,Default,,Associate,2.0,3.0,4.0,8.0,Possible
+5,3,,,,,,,,,,,
+5,3,,,,,,,,,,,
+5,3,,,,,,,,,,,
+5,3,,,,,,,,,,,
+5,4,Negotiate SPA with seller's solicitors,No more than ten turns by each party's solicitors and no more than 2 all parties' conference calls,,Default,,Associate,20.0,24.0,28.0,40.0,Highly Likely
+5,4,,,,,,Partner,5.0,10.0,15.0,20.0,Highly Likely
+5,4,,,,,,,,,,,
+5,4,,,,,,,,,,,
+5,4,,,,,,,,,,,
+5,5,Finalise SPA for execution,,,Default,,Associate,3.0,5.0,6.0,8.0,Highly Unlikely
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+5,5,,,,,,,,,,,
+6,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+6,0,Tax covenant ,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+6,1,Draft tax covenant ,To include tax warranties,,Default,,Partner,3.0,4.0,6.0,8.0,Possible
+6,1,,,,,,,,,,,
+6,1,,,,,,,,,,,
+6,1,,,,,,,,,,,
+6,1,,,,,,,,,,,
+6,2,Negotiate tax covenant with seller's solicitors,No more than five turns by each party's solicitors,,Default,,Partner,6.0,8.0,11.0,15.0,Probable
+6,2,,,,,,,,,,,
+6,2,,,,,,,,,,,
+6,2,,,,,,,,,,,
+6,2,,,,,,,,,,,
+6,3,Discuss tax covenant with client and its other advisers,,,Default,,Partner,3.0,4.0,6.0,10.0,Highly Unlikely
+6,3,,,,,,,,,,,
+6,3,,,,,,,,,,,
+6,3,,,,,,,,,,,
+6,3,,,,,,,,,,,
+6,4,Finalise tax covenant for execution,,,Default,,Partner,1.0,1.5,2.0,2.5,Highly Unlikely
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+6,4,,,,,,,,,,,
+7,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+7,0,Disclosure letter,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+7,1,Review front end of disclosure letter,Drafted by seller's solicitors,,Default,,Associate,1.0,2.0,3.0,4.0,Highly Unlikely
+7,1,,,,,,,,,,,
+7,1,,,,,,,,,,,
+7,1,,,,,,,,,,,
+7,1,,,,,,,,,,,
+7,2,Amend and negotiate front end of disclosure letter ,No more than three turns by each party's solicitors,,Default,,Associate,2.5,4.0,5.0,8.0,Possible
+7,2,,,,,,,,,,,
+7,2,,,,,,,,,,,
+7,2,,,,,,,,,,,
+7,2,,,,,,,,,,,
+7,3,Review specific disclosures and accompanying documents,Drafted by seller's solicitors; no more than 20% of warranties require disclosure against them ,,Default,,Associate,4.0,6.0,8.0,10.0,Highly Likely
+7,3,,,,,,Paralegal,4.0,6.0,8.0,10.0,Highly Likely
+7,3,,,,,,,,,,,
+7,3,,,,,,,,,,,
+7,3,,,,,,,,,,,
+7,4,Discuss specific disclosures internally,Discuss with relevant departments with each department spending at least 2 hours reviewing any specific disclosures relevant to their practice area,,Default,,Associate,15.0,25.0,35.0,50.0,Probable
+7,4,,,,,,Partner,5.0,6.0,7.0,8.0,Probable
+7,4,,,,,,,,,,,
+7,4,,,,,,,,,,,
+7,4,,,,,,,,,,,
+7,5,Discuss specific disclosures with client and any of its advisers,,,Default,,Associate,3.0,7.0,9.0,12.0,Possible
+7,5,,,,,,,,,,,
+7,5,,,,,,,,,,,
+7,5,,,,,,,,,,,
+7,5,,,,,,,,,,,
+7,6,Amend specific disclosures ,,,Default,,Associate,4.0,5.0,8.0,14.0,Possible
+7,6,,,,,,,,,,,
+7,6,,,,,,,,,,,
+7,6,,,,,,,,,,,
+7,6,,,,,,,,,,,
+7,7,Request further information from seller' solicitors with respect to the specific disclosures ,Only one set of further enquiries will be required,,Default,,Associate,2.0,3.0,4.0,6.0,Possible
+7,7,,,,,,,,,,,
+7,7,,,,,,,,,,,
+7,7,,,,,,,,,,,
+7,7,,,,,,,,,,,
+7,8,Negotiate finalising specific disclosures with seller's solicitors,No more than five turns by each party's solicitors,,Default,,Associate,10.0,12.0,15.0,20.0,Possible
+7,8,,,,,,,,,,,
+7,8,,,,,,,,,,,
+7,8,,,,,,,,,,,
+7,8,,,,,,,,,,,
+7,9,Finalise disclosure letter for execution,,,Default,,Associate,3.0,4.0,5.0,6.0,Highly Unlikely
+7,9,,,,,,Paralegal,3.0,4.0,5.0,6.0,Highly Unlikely
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+7,9,,,,,,,,,,,
+8,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+8,0,Draft required ancillaries for buyer,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+8,1,Draft exchange and completion board minutes of the buyer,Buyer is a corporate entity; no more than two turns by each party's solicitors of each set of board minutes,,Optional,,Associate,4.0,5.0,8.0,12.0,Highly Unlikely
+8,1,,,,,,,,,,,
+8,1,,,,,,,,,,,
+8,1,,,,,,,,,,,
+8,1,,,,,,,,,,,
+8,2,Draft new share certificate,No more than two turns by each party's solicitors,,Default,,Paralegal,0.5,0.8,1.0,2.0,Highly Unlikely
+8,2,,,,,,,,,,,
+8,2,,,,,,,,,,,
+8,2,,,,,,,,,,,
+8,2,,,,,,,,,,,
+8,3,Draft power of attorney,No more than two turns by each party's solicitors,,Default,,Associate,0.8,1.3,1.8,3.0,Highly Unlikely
+8,3,,,,,,,,,,,
+8,3,,,,,,,,,,,
+8,3,,,,,,,,,,,
+8,3,,,,,,,,,,,
+8,4,Draft Companies House forms,No more than four forms and no more than two turns by each party's solicitors,,Default,,Paralegal,1.5,2.0,2.5,3.0,Highly Unlikely
+8,4,,,,,,,,,,,
+8,4,,,,,,,,,,,
+8,4,,,,,,,,,,,
+8,4,,,,,,,,,,,
+8,5,Draft undertaking for deposit monies,No more than two turns by each party's solicitors,,Optional,,Associate,1.0,1.5,1.8,2.0,Highly Unlikely
+8,5,,,,,,Partner,0.3,0.5,0.8,1.0,Highly Unlikely
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+8,5,,,,,,,,,,,
+9,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+9,0,Review required ancillaries for seller,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+9,1,Review exchange and completion board minutes of the seller,Seller is a corporate entity; no more than two turns by each party's solicitors of each set of board minutes,,Optional,,Associate,1.5,2.5,4.0,5.0,Highly Unlikely
+9,1,,,,,,,,,,,
+9,1,,,,,,,,,,,
+9,1,,,,,,,,,,,
+9,1,,,,,,,,,,,
+9,2,Review exchange and completion board minutes of the target,No more than two turns by each party's solicitors of each set of board minutes,,Default,,Associate,1.5,2.5,4.0,5.0,Highly Unlikely
+9,2,,,,,,,,,,,
+9,2,,,,,,,,,,,
+9,2,,,,,,,,,,,
+9,2,,,,,,,,,,,
+9,3,Review stock transfer form,No more than two turns by each party's solicitors,,Default,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+9,3,,,,,,,,,,,
+9,3,,,,,,,,,,,
+9,3,,,,,,,,,,,
+9,3,,,,,,,,,,,
+9,4,Review indemnity for lost share certificate,No more than two turns by each party's solicitors,,Optional,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+9,4,,,,,,,,,,,
+9,4,,,,,,,,,,,
+9,4,,,,,,,,,,,
+9,4,,,,,,,,,,,
+9,5,Review director resignation letter,No more than two turns by each party's solicitors,,Optional,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+9,5,,,,,,,,,,,
+9,5,,,,,,,,,,,
+9,5,,,,,,,,,,,
+9,5,,,,,,,,,,,
+9,6,Review secretary resignation letter,No more than two turns by each party's solicitors,,Optional,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+9,6,,,,,,,,,,,
+9,6,,,,,,,,,,,
+9,6,,,,,,,,,,,
+9,6,,,,,,,,,,,
+9,7,Review power of attorney,No more than two turns by each party's solicitors,,Default,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+9,7,,,,,,,,,,,
+9,7,,,,,,,,,,,
+9,7,,,,,,,,,,,
+9,7,,,,,,,,,,,
+9,8,Review Companies House forms,No more than four forms and no more than two turns by each party's solicitors,,Default,,Associate,1.0,1.5,1.8,2.0,Highly Unlikely
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+9,8,,,,,,,,,,,
+10,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+10,0,Exchange,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+10,1,Undertake pre-completion searches,Nothing of concern arises from the searches,,Default,,Paralegal,0.5,1.0,2.0,3.0,Possible
+10,1,,,,,,,,,,,
+10,1,,,,,,,,,,,
+10,1,,,,,,,,,,,
+10,1,,,,,,,,,,,
+10,2,Request and receive relevant funds from the buyer,Non-refundable deposit to be paid on exchange; funds are readily available and sent to us by our client in one transaction prior to exchange not requiring any additional KYC,,Default,,Associate,0.2,0.5,0.8,1.0,Highly Unlikely
+10,2,,,,,,,,,,,
+10,2,,,,,,,,,,,
+10,2,,,,,,,,,,,
+10,2,,,,,,,,,,,
+10,3,Prepare documents for exchange and arrange execution by buyer,Execution of documents to be undertaken remotely and scanned by buyer to us and then scanned between solicitors ,,Default,,Associate,1.0,2.0,3.0,4.0,Possible
+10,3,,,,,,Paralegal,2.0,2.5,3.0,4.0,Possible
+10,3,,,,,,,,,,,
+10,3,,,,,,,,,,,
+10,3,,,,,,,,,,,
+10,4,Check documents and signatures to them received from the seller's solicitors,All signatures are legible and solicitors agree exchange between themselves,,Default,,Associate,1.0,1.5,2.5,3.0,Highly Unlikely
+10,4,,,,,,Paralegal,1.0,1.5,2.5,3.0,Highly Unlikely
+10,4,,,,,,,,,,,
+10,4,,,,,,,,,,,
+10,4,,,,,,,,,,,
+10,5,Meeting to be held to sign documents,Documents signed at this meeting which is attended by all parties and exchange agreed,,Optional,,Partner,2.0,3.0,4.0,6.0,Possible
+10,5,,,,,,Associate,2.0,3.0,4.0,6.0,Possible
+10,5,,,,,,Paralegal,2.0,3.0,4.0,6.0,Possible
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+10,5,,,,,,,,,,,
+11,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+11,0,Period between exchange and completion,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+11,1,Seek release of any undertaking given re deposit,,,Optional,,Associate,0.3,0.5,0.8,1.0,Highly Unlikely
+11,1,,,,,,,,,,,
+11,1,,,,,,,,,,,
+11,1,,,,,,,,,,,
+11,1,,,,,,,,,,,
+11,2,"One week before long stop date, liaise with seller's solicitors re completion conditions",Completion conditions will be satisfied by long stop date,,Default,,Associate,0.5,1.0,2.0,3.0,Possible
+11,2,,,,,,,,,,,
+11,2,,,,,,,,,,,
+11,2,,,,,,,,,,,
+11,2,,,,,,,,,,,
+11,3,Review any updates to the disclosure letter,Warranties repeated at completion; only minor amendments made to disclosure letter by seller's solicitors and no material breaches since exchange,,Default,,Associate,1.0,1.5,3.0,5.0,Highly Unlikely
+11,3,,,,,,,,,,,
+11,3,,,,,,,,,,,
+11,3,,,,,,,,,,,
+11,3,,,,,,,,,,,
+11,4,Draft undertaking for completion monies,No more than two turns by each party's solicitors,,Optional,,Associate,1.0,1.5,1.8,2.0,Highly Unlikely
+11,4,,,,,,Partner,0.3,0.5,0.8,1.0,Highly Unlikely
+11,4,,,,,,,,,,,
+11,4,,,,,,,,,,,
+11,4,,,,,,,,,,,
+11,5,Update client,Completion conditions will be satisfied by long stop date,,Default,,Associate,0.5,1.0,1.5,2.0,Highly Unlikely
+11,5,,,,,,Partner,0.5,1.0,1.5,2.0,Highly Unlikely
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+11,5,,,,,,,,,,,
+12,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+12,0,Completion,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+12,1,Undertake pre-completion searches and check any confirmations re completion conditions,Nothing of concern arises from the searches,,Default,,Paralegal,0.5,1.0,2.0,3.0,Possible
+12,1,,,,,,,,,,,
+12,1,,,,,,,,,,,
+12,1,,,,,,,,,,,
+12,1,,,,,,,,,,,
+12,2,Request and receive relevant funds from the buyer,Balance of consideration to be paid on completion; funds are readily available and sent to us by our client in one transaction prior to completion not requiring any additional KYC,,Default,,Associate,0.2,0.5,0.8,1.0,Highly Unlikely
+12,2,,,,,,,,,,,
+12,2,,,,,,,,,,,
+12,2,,,,,,,,,,,
+12,2,,,,,,,,,,,
+12,3,Prepare any further documents required for completion and arrange execution by buyer,Execution of documents to be undertaken remotely and scanned by buyer to us and then scanned between solicitors; updated disclosure letter and documents re conditions only,,Default,,Associate,0.5,1.0,1.5,2.0,Possible
+12,3,,,,,,Paralegal,1.0,1.3,1.5,2.0,Possible
+12,3,,,,,,,,,,,
+12,3,,,,,,,,,,,
+12,3,,,,,,,,,,,
+12,4,Check documents and signatures to them received from the seller's solicitors,All signatures are legible and solicitors agree completion between themselves,,Default,,Associate,0.8,1.3,2.3,2.8,Highly Unlikely
+12,4,,,,,,Paralegal,0.8,1.3,2.3,2.8,Highly Unlikely
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+12,4,,,,,,,,,,,
+13,0,Phase Name,Assumptions relating to THIS phase or task only,Exclusions relating to THIS phase or task only,Required/Optional,Narrative if the PHASE is excluded from scope,One or more Fee Earners by Job Role,"Likely time to complete in hours (fractions of an hour eg 1.25, not 6 minute units)",,,,
+13,0,Post completion considerations,,,Default,,,Best case,Lowest anticipated,Highest anticipated,Worst Case,Overrun Risk
+13,1,Payment of purchase monies to seller's solicitors,,,Default,,Associate,0.3,0.5,0.8,1.0,Highly Unlikely
+13,1,,,,,,,,,,,
+13,1,,,,,,,,,,,
+13,1,,,,,,,,,,,
+13,1,,,,,,,,,,,
+13,2,Seek release of any undertaking given,,,Optional,,Associate,0.3,0.5,0.8,1.0,Highly Unlikely
+13,2,,,,,,,,,,,
+13,2,,,,,,,,,,,
+13,2,,,,,,,,,,,
+13,2,,,,,,,,,,,
+13,3,Submit STF(s) to HMRC for stamping,,,Default,,Associate,0.5,0.8,1.0,1.5,Highly Unlikely
+13,3,,,,,,,,,,,
+13,3,,,,,,,,,,,
+13,3,,,,,,,,,,,
+13,3,,,,,,,,,,,
+13,4,Make necessary filings at Companies House,No more than 8 forms to be filed,,Default,,Paralegal,1.0,1.5,2.0,3.0,Highly Unlikely
+13,4,,,,,,,,,,,
+13,4,,,,,,,,,,,
+13,4,,,,,,,,,,,
+13,4,,,,,,,,,,,
+13,5,Update target's statutory registers,,,Default,,Paralegal,1.0,1.5,2.0,2.5,Highly Unlikely
+13,5,,,,,,,,,,,
+13,5,,,,,,,,,,,
+13,5,,,,,,,,,,,
+13,5,,,,,,,,,,,
+13,6,Prepare transaction bible,,,Optional,,Paralegal,4.0,6.0,9.0,12.0,Highly Unlikely
+13,6,,,,,,Associate,1.0,2.0,3.0,4.0,Highly Unlikely
+13,6,,,,,,,,,,,
+13,6,,,,,,,,,,,
+13,6,,,,,,,,,,,
+13,7,Diarise dates for completion accounts,,,Default,,Associate,0.3,0.5,0.8,1.0,Highly Unlikely
+13,7,,,,,,,,,,,
+13,7,,,,,,,,,,,
+13,7,,,,,,,,,,,
+13,7,,,,,,,,,,,
+13,8,Review of SPA in relation to any adjustment to purchase price,The parties' accountants draft and agree completion accounts in accordance with the SPA,,Optional,,Partner,2.0,3.0,5.0,7.0,Highly Unlikely
+13,8,,,,,,Associate,2.0,3.0,5.0,7.0,Highly Unlikely
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,
+13,8,,,,,,,,,,,

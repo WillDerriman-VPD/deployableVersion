@@ -1,0 +1,16 @@
+   ----------
+  Phases match   
+   ----------
+
+--- Checking tasks in phase:  4  ---
+Tasks in Template:  42
+Tasks in UAT:       29
+------------------------------------
+
+--- Checking tasks in phase:  10  ---
+Tasks in Template:  9
+Tasks in UAT:       8
+------------------------------------
+
+All Good :-)
+
