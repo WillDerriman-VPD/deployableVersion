@@ -1,0 +1,101 @@
+,,,,,,,,
+,,,,,,,,
+0,,Details of HYD Test 1,,,,,,
+0,,Instructions and preliminary steps,,,,,,
+1,0,Task,Assumptions,Exclusions,Planning,,,
+1,0,Obtain detailed formal instructions by telephone or in writing and discuss the principal points and timescales,No meeting is required,None,,,,
+1,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,1,Greg Wildisen,Standard,1,1.5,2,3,Possible
+1,1,Judith Johnston,Standard,1,1.5,2,3,Possible
+1,1,Obtain detailed formal instructions in a meeting and discuss the principal points and timescales,Meeting is required,None,,,,
+1,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,2,Greg Wildisen,Standard,1.5,2,2.5,3,Highly Unlikely
+1,2,Deal with matter opening formalities including conflict checks and other regulatory matters,There is no conflict with other parties and client produces required KYC in a timely manner,None,,,,
+1,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+1,3,Judith Johnston,Standard,1,1.5,2,3,Possible
+1,3,Ramon the second Rollinger,Standard,1,2,2.5,3,Possible
+1,3,Incorporation questionnaire,,,,,,
+2,0,Task,Assumptions,Exclusions,Planning,,,
+2,0,Draft incorporation questionnaire and send to the client,None,None,,,,
+2,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,1,Ramon the second Rollinger,Standard,1,1.5,2,2.5,Highly Unlikely
+2,1,Judith Johnston,Standard,0.3,0.5,0.8,1,Highly Unlikely
+2,1,Review responses to incorporation questionnaire,None,None,,,,
+2,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,2,Judith Johnston,Standard,1.3,1.8,2.5,3,Possible
+2,2,Discuss incorporation questionnaire internally,None,None,,,,
+2,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,3,Greg Wildisen,Standard,0.5,0.8,1,1.5,Highly Unlikely
+2,3,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+2,3,Discuss incorporation questionnaire with client and its advisers,None,None,,,,
+2,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,4,Judith Johnston,Standard,0.5,1,1.5,2,Possible
+2,4,Review any follow up responses to incorporation questionnaire,None,None,,,,
+2,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,5,Judith Johnston,Standard,0.5,1,1.5,2,Possible
+2,5,Check proposed name of the company against Companies House index,None,None,,,,
+2,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+2,6,Ramon the second Rollinger,Standard,0.1,0.2,0.3,0.5,Highly Unlikely
+2,6,Prepare incorporation documentation,,,,,,
+3,0,Task,Assumptions,Exclusions,Planning,,,
+3,0,Draft form IN01,Using paper/electronic copy for filing that is not the online version,None,,,,
+3,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+3,1,Ramon the second Rollinger,Standard,1,1.3,1.8,2,Possible
+3,1,Discuss Form IN01 internally,None,None,,,,
+3,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+3,2,Greg Wildisen,Standard,0.5,0.8,1,1.5,Highly Unlikely
+3,2,Judith Johnston,Standard,0.5,0.8,1,1.5,Highly Unlikely
+3,2,Ramon the second Rollinger,Standard,0.5,0.8,1,1.5,Highly Unlikely
+3,2,Company constitution,,,,,,
+4,0,Task,Assumptions,Exclusions,Planning,,,
+4,0,Draft bespoke articles,"To cover directors, directors' meetings, directors' interests, dividends, share transfers with pre-emption, permitted transfers, valuation, tag along, drag along, general meetings, proxies",None,,,,
+4,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,1,Judith Johnston,Standard,6,8,10,15,Possible
+4,1,Send articles to client and discuss,Sophisticated client who understand the concept of articles of association and all shareholders in agreement,None,,,,
+4,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,2,Judith Johnston,Standard,0.5,1,1.5,2,Possible
+4,2,Amend articles,Amend articles,None,,,,
+4,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,3,Judith Johnston,Standard,1,2,3,4,Possible
+4,3,Amend articles,None,None,,,,
+4,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,4,Judith Johnston,Standard,1,2,3,4,Highly Unlikely
+4,4,Prepare Memorandum of Association for subscribers to sign and approve,None,None,,,,
+4,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,5,Ramon the second Rollinger,Standard,0.5,1,1.5,2,Highly Unlikely
+4,5,Receive executed documents electronically; check signatures,None,None,,,,
+4,6,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+4,6,Ramon the second Rollinger,Standard,0.5,0.8,1,1.3,Highly Unlikely
+4,6,Filings with the Registrar of Companies,,,,,,
+5,0,Task,Assumptions,Exclusions,Planning,,,
+5,0,"File the IN01, memorandum and bespoke articles by post for non-same day incorporation",None,None,,,,
+5,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,1,Ramon the second Rollinger,Standard,0.3,0.5,0.8,1,Highly Unlikely
+5,1,"File the IN01, memorandum and bespoke articles by hand for same day incorporation",Paralegal to take documents to Companies House in London,None,,,,
+5,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+5,2,Ramon the second Rollinger,Standard,1,1.3,1.5,2.5,Highly Unlikely
+5,2,Company Records,,,,,,
+6,0,Task,Assumptions,Exclusions,Planning,,,
+6,0,Draft the register of directors and secretary and separate register of its directors' residential addresses,None,None,,,,
+6,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,1,Ramon the second Rollinger,Standard,0.5,0.8,1,1.5,Highly Unlikely
+6,1,Draft the register of members,None,None,,,,
+6,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,2,Ramon the second Rollinger,Standard,0.3,0.5,0.8,1,Highly Unlikely
+6,2,Draft the register of persons with significant control,No further investigation of PSC/RLE required,None,,,,
+6,3,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,3,Ramon the second Rollinger,Standard,0.2,0.5,0.8,1,Highly Unlikely
+6,3,Draft the registers of allotments,None,None,,,,
+6,4,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,4,Ramon the second Rollinger,Standard,0.2,0.5,0.8,1,Highly Unlikely
+6,4,Prepare share certificates for issued shares,No more than 4 certificates,None,,,,
+6,5,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+6,5,Ramon the second Rollinger,Standard,0.5,0.8,1,1.5,Highly Unlikely
+6,5,Post incorporation,,,,,,
+7,0,Task,Assumptions,Exclusions,Planning,,,
+7,0,Check details at Companies House online are correct,None,None,,,,
+7,1,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,1,Ramon the second Rollinger,Standard,0.3,0.5,0.8,1,Highly Unlikely
+7,1,"Send a copy of the certificate of incorporation, articles of association and statutory books to client",None,None,,,,
+7,2,Name,Rate,Best Case,Lowest Anticipated,Highest Anticipated,Worst Case,Risk
+7,2,Ramon the second Rollinger,Standard,0.1,0.2,0.3,0.4,Highly Unlikely
