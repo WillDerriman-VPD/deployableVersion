@@ -1,2 +1,0 @@
-Number of phases does not match: 133 in templates, 119 in UAT 
-
